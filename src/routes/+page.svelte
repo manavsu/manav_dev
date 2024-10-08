@@ -31,7 +31,7 @@
 
 		<div>
 			<a class="font-bold" href="https://tidepoolfinance.com/">tidepool finance</a>
-			<p>A site dedicated to preparing for retirement, still a wip but contains some useful tools. The backend is hosted locally by me, please don't hack me.</p>
+			<p>A site dedicated to preparing for retirement, still a wip but contains some useful tools. The backend is hosted locally by my home lab.</p>
 		</div>
 
 		<div>
@@ -52,6 +52,11 @@
 		<div>
 			<a class="font-bold" href="https://github.com/manavsu/hastaginator">hastaginator</a>
 			<p>Will usae a local LLM to generate hastags for your photos in exchange for more TOPS. built with Tranformers and Gradio.</p>
+		</div>
+
+		<div>
+			<p class="font-bold text-teal-500">Solar Savings Calculator</p>
+			<p>A tool to estimate the cost savings to switching to solar, taking into account your electricity bill and energy prices. It can also account for arbitrage with energy storage.</p>
 		</div>
 
 		<div>
