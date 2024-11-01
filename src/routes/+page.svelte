@@ -15,8 +15,15 @@
 		<p>In the meantime I've been spending too much time playing <a href="https://store.steampowered.com/app/2358720/Black_Myth_Wukong/">Black Myth: Wukong</a> on a PC I just built (I use arch btw).</p>
 	</div>
 
+
 	<div class="flex w-full flex-col gap-6">
 		<h2 class="w-fit border-b-2 border-black font-mono text-2xl">Projects</h2>
+
+		<div>
+			<a class="font-bold" href="http://pyai.duckdns.org/">pyai</a>
+			<p>An AI agent with access to a jupyter notebook. It can write and execute code, able to create scripts to analyze data. Most importantly it is able to receive feedback on errors with its code and iteratively fix them.</p>
+		</div>
+
 		<div>
 			<a class="font-bold" href="https://modworm.com">modworm</a>
 			<p>A site dedicated to modbus some utilities, specifically rain and soil.</p>
