@@ -9,19 +9,17 @@
 
 		<p>Currently, I'm waiting for it to snow :(</p>
 
-		<!-- svelte-ignore a11y-missing-attribute -->
-		<img class="mx-auto h-32 w-32 object-cover" src="IMG_4618.jpeg" />
+		<img class="mx-auto h-32 w-32 object-cover" alt="Me with Wooly" src="IMG_4618.jpeg" />
 
 		<p>In the meantime I've been spending too much time playing <a href="https://store.steampowered.com/app/2358720/Black_Myth_Wukong/">Black Myth: Wukong</a> on a PC I just built (I use arch btw).</p>
 	</div>
-
 
 	<div class="flex w-full flex-col gap-6">
 		<h2 class="w-fit border-b-2 border-black font-mono text-2xl">Projects</h2>
 
 		<div>
 			<a class="font-bold" href="http://pyai.duckdns.org/">pyai</a>
-			<p>An AI agent with access to a jupyter notebook. It can write and execute code, able to create scripts to analyze data. Most importantly it is able to receive feedback on errors with its code and iteratively fix them.</p>
+			<p>An AI agent with access to a jupyter notebook. It can write and execute code, able to create scripts to analyze data. Most importantly it is able to receive feedback on errors with its code and iteratively fix them. Hosted in my home lab so it may be slow.</p>
 		</div>
 
 		<div>
@@ -59,6 +57,11 @@
 		<div>
 			<a class="font-bold" href="https://github.com/manavsu/hastaginator">hastaginator</a>
 			<p>Will usae a local LLM to generate hastags for your photos in exchange for more TOPS. built with Tranformers and Gradio.</p>
+		</div>
+
+		<div>
+			<a class="font-bold" href="https://github.com/manavsu/dir_watcher">Directory Watcher</a>
+			<p>A tool for watching for changes to directory in realtime and altering a server if any changes are detected.</p>
 		</div>
 
 		<div>
