@@ -19,7 +19,7 @@
 		<h2 class="w-fit border-b-2 border-black font-mono text-2xl">Projects</h2>
 
 		<div>
-			<a class="font-bold" href="http://pyai.duckdns.org/">pyai</a>
+			<a class="font-bold" href="https://github.com/manavsu/pyai">pyai</a>
 			<p>An AI agent with access to a jupyter notebook. It can write and execute code, able to create scripts to analyze data. Most importantly it is able to receive feedback on errors with its code and iteratively fix them. Hosted in my home lab so it may be slow.</p>
 		</div>
 
