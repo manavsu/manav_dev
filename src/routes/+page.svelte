@@ -7,11 +7,12 @@
 	<div class="flex w-full flex-col gap-4">
 		<p>Hello, I'm Manav! I have a love for mathematics and computers. I enjoy spending time wrestling, skiing and working on various projects.</p>
 
-		<p>Winter is here!</p>
+		<p>Winter has arrived bringing with it some much needed snow (for skiing)!</p>
 
 		<img class="mx-auto h-32 w-32 object-cover" alt="Me with Wooly" src="IMG_4618.jpeg" />
 
 		<p>When I'm not skiing, I've been spending some time playing <a href="https://store.steampowered.com/app/2358720/Black_Myth_Wukong/">Black Myth: Wukong</a>.</p>
+		<p>Currently migrated stuff to a new host so some links may be broken, hope to have them up soon!</p>
 	</div>
 
 	<div class="flex w-full flex-col gap-6">
