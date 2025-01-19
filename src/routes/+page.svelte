@@ -12,7 +12,6 @@
 		<img class="mx-auto h-32 w-32 object-cover" alt="Me with Wooly" src="IMG_4618.jpeg" />
 
 		<p>When I'm not skiing, I've been spending some time playing <a href="https://store.steampowered.com/app/2358720/Black_Myth_Wukong/">Black Myth: Wukong</a>.</p>
-		<p>Currently migrated stuff to a new host so some links may be broken, hope to have them up soon!</p>
 	</div>
 
 	<div class="flex w-full flex-col gap-6">
