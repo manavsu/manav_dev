@@ -19,6 +19,11 @@
 	<div class="flex w-full flex-col gap-6">
 		<h2 class="w-fit border-b-2 border-black font-mono text-2xl">Projects</h2>
 
+		<div>
+			<a class="font-bold" href="https://ski.manav.dev/">Super Chill Ski Club</a>
+			<p>A way to share skiing clips with friends. You can <a href="https://ski.manav.dev/sign_up">sign up</a> and post videos (you may need to log back in after sign up). Hosted on my home lab.</p>
+		</div>
+
 
 		<div>
 			<a class="font-bold" href="https://pithyurl.duckdns.org">pithy url</a>
