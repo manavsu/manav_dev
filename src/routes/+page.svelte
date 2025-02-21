@@ -13,7 +13,7 @@
 
 		<p>When I'm not skiing, I've been spending some time playing <a href="https://store.steampowered.com/app/2358720/Black_Myth_Wukong/">Black Myth: Wukong</a>.</p>
 
-		
+		<p>Everything is down, my router is not behaving :(.</p>
 	</div>
 
 	<div class="flex w-full flex-col gap-6">
