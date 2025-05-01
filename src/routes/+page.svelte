@@ -11,9 +11,7 @@
 
 		<img class="mx-auto h-32 w-32 object-cover" alt="Me with Wooly" src="IMG_4618.jpeg" />
 
-		<p>When I'm not skiing, I've been spending some time playing <a href="https://store.steampowered.com/app/2358720/Black_Myth_Wukong/">Black Myth: Wukong</a>.</p>
-
-		<p>Everything is down, my router is not behaving :(.</p>
+		<p>When I'm not skiing, I'm <a href="https://www.reddit.com/r/unixporn/">ricing</a> my desktop.</p>
 	</div>
 
 	<div class="flex w-full flex-col gap-6">
@@ -23,7 +21,6 @@
 			<a class="font-bold" href="https://ski.manav.dev/">Super Chill Ski Club</a>
 			<p>A way to share skiing clips with friends. You can <a href="https://ski.manav.dev/sign_up">sign up</a> and post videos (you may need to log back in after sign up). Hosted on my home lab.</p>
 		</div>
-
 
 		<div>
 			<a class="font-bold" href="https://pithyurl.duckdns.org">pithy url</a>
