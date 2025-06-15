@@ -7,15 +7,18 @@
 	<div class="flex w-full flex-col gap-4">
 		<p>Hello, I'm Manav! I have a love for mathematics and computers. I enjoy spending time wrestling, skiing and working on various projects.</p>
 
-		<p>Winter has arrived bringing with it some much needed snow (for skiing)!</p>
-
 		<img class="mx-auto h-32 w-32 object-cover" alt="Me with Wooly" src="IMG_4618.jpeg" />
 
-		<p>When I'm not skiing, I'm <a href="https://www.reddit.com/r/unixporn/">ricing</a> my desktop.</p>
+		<p>Currently busy <a href="https://www.reddit.com/r/unixporn/">ricing</a> my desktop.</p>
 	</div>
 
 	<div class="flex w-full flex-col gap-6">
 		<h2 class="w-fit border-b-2 border-black font-mono text-2xl">Projects</h2>
+
+		<div>
+			<a class="font-bold" href="https://github.com/manavsu/tanki">Tanki</a>
+			<p>A tui inspired by anki for practing flashcards.</p>
+		</div>
 
 		<div>
 			<a class="font-bold" href="https://ski.manav.dev/">Super Chill Ski Club</a>
