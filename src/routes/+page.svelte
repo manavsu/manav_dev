@@ -17,7 +17,7 @@
 
 		<div>
 			<a class="font-bold" href="https://github.com/manavsu/tanki">Tanki</a>
-			<p>A tui inspired by anki for practing flashcards.</p>
+			<p>A tui inspired by anki for practicing flashcards.</p>
 		</div>
 
 		<div>
