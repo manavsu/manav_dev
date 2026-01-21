@@ -16,6 +16,11 @@
 		<h2 class="w-fit border-b-2 border-black font-mono text-2xl">Projects</h2>
 
 		<div>
+			<a class="font-bold" href="https://wikitron.languidlabs.com/">Wikitron</a>
+			<p>An infinitely growing AI generated Wiki.</p>
+		</div>
+
+		<div>
 			<a class="font-bold" href="https://github.com/manavsu/tanki">Tanki</a>
 			<p>A tui inspired by anki for practicing flashcards.</p>
 		</div>
